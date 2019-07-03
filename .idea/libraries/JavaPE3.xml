@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="JavaPE3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/main/test" />
+    </SOURCES>
+  </library>
+</component>
